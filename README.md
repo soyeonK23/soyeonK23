@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**soyeonK23/soyeonK23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Soyeon Kim
 
-Here are some ideas to get you started:
+I am a Deep Learning Researcher specializing in anomaly detection with Multimodal using advanced AI techniques.
+Currently, I am pursuing my M.S. in Smart Factory Convergence at Sungkyunkwan University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Research Interests:
+- Anomaly Detection
+- Multimodal
+- Deep Learning
+- Computer Vision
+
+---
+
+## 📊 Paper Seminar
+
+
+---
+
+## 💡 Intellectual Property
+**Program Registrations**
+- 소량 조색 데이터를 활용한 이중 증강 기반 파운데이션 양방향 색상 예측 및 시뮬레이션 프로그램
+- 등록번호 : 110171-0029501
+
+
+## 🔗 Contact
+- GitHub: https://github.com/soyeonK23
+- Email: kimsoyeon744@gmail.com
