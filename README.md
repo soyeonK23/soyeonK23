@@ -17,8 +17,9 @@ Currently, I am pursuing my M.S. in Smart Factory Convergence at Sungkyunkwan Un
 ---
 
 ## 📊 Paper Seminar
-
-
+|Date| Title & Topic|
+|----------|---------------------------------------|
+|2026-01-11 | A multimodal industrial anomaly detection method based on mask training and teacher–student|
 ---
 
 ## 💡 Intellectual Property
