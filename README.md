@@ -23,7 +23,7 @@ Currently, I am pursuing my M.S. in Smart Factory Convergence at Sungkyunkwan Un
 | Date       | Title & Topic                                                                                         | Link  |
 |------------|-------------------------------------------------------------------------------------------------------|-------|
 | 2026-01-11 | A multimodal industrial anomaly detection method based on mask training and teacher–student                     | [Link](https://www.youtube.com/watch?v=qHtgQsU__4Y) |
-| 2025-08-12 |  A multi-scale information fusion framework with interaction-aware global attention for industrial vision anomaly detection and localization | [Link](https://www.youtube.com/watch?v=qpi8S3CKr0o) |
+| 2025-02-01 |  A multi-scale information fusion framework with interaction-aware global attention for industrial vision anomaly detection and localization | [Link](https://www.youtube.com/watch?v=qpi8S3CKr0o) |
 
 ---
 
